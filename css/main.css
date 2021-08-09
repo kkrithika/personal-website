@@ -1,0 +1,24 @@
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+.intro {
+	background: url(../images/background_lines-01.svg), linear-gradient(132deg, rgb(251, 251, 255) 0.00%, rgb(215, 223, 252) 100.00%);
+	background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+} 
+
+.button{
+    background:url(../images/mac_os_9_folder.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:100px;
+    height:100px;
+}
+
+
+
+
