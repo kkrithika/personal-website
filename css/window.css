@@ -28,6 +28,7 @@ span {
   border: 1px solid #acacac;
   border-radius: 6px;
   box-shadow: 0px 0px 20px #acacac;
+  position: relative
 }
 
 .titlebar {
@@ -55,94 +56,28 @@ span {
   cursor: default;
 }
 
-.buttons {
-  padding-left: 8px;
-  padding-top: 3px;
-  float: left;
-  line-height: 0px;
-}
-
-.buttons:hover a {
-  visibility: visible;
-}
-
-.close {
-  background: #ff5c5c;
-  font-size: 9pt;
+.btn-circle {
   width: 11px;
   height: 11px;
-  border: 1px solid #e33e41;
-  padding-left: 2px;
-  padding-right: 2px;
+  text-align: center;
+  padding: 0;
   border-radius: 50%;
 }
 
-.close:active {
-  background: #c14645;
-  border: 1px solid #b03537;
+.btn-circle i {
+  position: relative;
+  top: -1px;
 }
 
-.close:active .closebutton {
-  color: #4e0002;
-}
-
-.closebutton {
-  color: #820005;
-  visibility: hidden;
-  cursor: default;
-}
-
-.minimize {
-  background: #ffbd4c;
-  font-size: 9pt;
+.btn-circle-sm {
   width: 11px;
   height: 11px;
-  border: 1px solid #e09e3e;
-  border-radius: 50%;
-}
-
-.minimize:active {
-  background: #c08e38;
-  border: 1px solid #af7c33;
-}
-
-.minimize:active .minimizebutton {
-  color: #5a2607;
-}
-
-.minimizebutton {
-  color: #9a5518;
-  visibility: hidden;
-  cursor: default;
-}
-
-.zoom {
-  background: #00ca56;
-  font-size: 9pt;
-  width: 11px;
-  height: 11px;
-  border: 1px solid #14ae46;
-  border-radius: 50%;
-}
-
-.zoom:active {
-  background: #029740;
-  border: 1px solid #128435;
-}
-
-.zoom:active .zoombutton {
-  color: #003107;
-}
-
-.zoombutton {
-  color: #006519;
-  visibility: hidden;
-  cursor: default;
 }
 
 .content-heading {
-  padding: 10px;
   font-family: 'Secular One', sans-serif;
+  justify-content: center;
+  padding-top: 10px;
 }
 
 .content-body {
@@ -160,7 +95,6 @@ h3 {
 .flex-container-window-buttons {
   /* We first create a flex layout context */
   display: inline-flex;
-
   /* Then we define the flow direction 
      and if we allow the items to wrap 
    * Remember this is the same as:
@@ -168,11 +102,12 @@ h3 {
    * flex-wrap: wrap;
    */
   flex-flow: row;
-
   /* Then we define how is distributed the remaining space */
   justify-content: flex-start;
-
   float: left;
+  gap: 5px;
+  margin-left: 5px;
+  margin-top: 2px;
 }
 
 /* content END */
