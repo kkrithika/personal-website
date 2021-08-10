@@ -14,7 +14,7 @@ span {
 
 .window {
   background: #fff;
-  width: 60vw;
+  min-width: 60vw;
   max-height: 70vh;
   margin: auto;
   overflow-y: scroll;
