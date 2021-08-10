@@ -50,7 +50,7 @@ span {
   -ms-user-select: none;
   -o-user-select: none;
   cursor: default;
-  position: absolute;
+  position: sticky; top: 0;
 }
 
 .btn-circle {
