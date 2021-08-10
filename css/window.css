@@ -18,6 +18,7 @@ span {
   max-height: 70vh;
   margin: auto;
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
   margin-top: 12.5vh;
   border: 1px solid #acacac;
   border-radius: 6px;
@@ -48,6 +49,7 @@ span {
   -ms-user-select: none;
   -o-user-select: none;
   cursor: default;
+  position: absolute;
 }
 
 .btn-circle {

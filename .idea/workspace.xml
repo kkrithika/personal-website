@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="added in processing animation!" />
+    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="added in grid">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/window.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/window.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628618043573</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added in grid">
+      <created>1628619953255</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1628619953255</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +156,7 @@
     <MESSAGE value="remove container" />
     <MESSAGE value="i think i fixed all the wrapping issues?" />
     <MESSAGE value="added in processing animation!" />
-    <option name="LAST_COMMIT_MESSAGE" value="added in processing animation!" />
+    <MESSAGE value="added in grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="added in grid" />
   </component>
 </project>
