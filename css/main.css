@@ -9,7 +9,11 @@ html {
 	background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
-} 
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
 .flex-container-folders {
   display: inline-flex;
   flex-flow: row;
