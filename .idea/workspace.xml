@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="try to add in collapse. didn't work">
-      <change afterPath="$PROJECT_DIR$/js/jQueryFunctions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/javaScriptFunctions.js" afterDir="false" />
+    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="add jquery functions to wait until loading animation is finished.">
+      <change afterPath="$PROJECT_DIR$/images/ReadingSideDoodle.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/window.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/window.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/typewriter.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628629708622</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add jquery functions to wait until loading animation is finished.">
+      <created>1628636096216</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1628636096216</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +221,7 @@
     <MESSAGE value="make title bar sticky" />
     <MESSAGE value="fix bg?" />
     <MESSAGE value="try to add in collapse. didn't work" />
-    <option name="LAST_COMMIT_MESSAGE" value="try to add in collapse. didn't work" />
+    <MESSAGE value="add jquery functions to wait until loading animation is finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="add jquery functions to wait until loading animation is finished." />
   </component>
 </project>
