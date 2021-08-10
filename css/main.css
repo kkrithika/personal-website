@@ -10,12 +10,19 @@ html {
 }
 
 .intro {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
 	background: url(../images/background_lines-01.svg), linear-gradient(132deg, rgb(251, 251, 255) 0.00%, rgb(215, 223, 252) 100.00%) no-repeat center center fixed;
     background-size: contain;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
 }
+#mainContainer {
+    height: 100%;
+}
+
 .flex-container-folders {
   display: inline-flex;
   padding: 3%;
@@ -44,7 +51,6 @@ html {
   padding: 3%;
   float: right;
 }
-
 
 
 
