@@ -10,16 +10,17 @@ html {
     background-position: center; 
     background-size: cover;
 }
-.flex-container {
-  display: flex;
-  flex-wrap: wrap;
-}
 .flex-container-folders {
   display: inline-flex;
+  padding: 3%;
+}
+.flex-container-folders-row {
   flex-flow: row;
   justify-content: flex-start;
+  flex-wrap: wrap;
   float: left;
   gap: 30px;
+  width: 100%;
 }
 .folder{
     background:url(../images/mac_os_9_folder.png) no-repeat;
@@ -31,7 +32,7 @@ html {
 
 .folder-text{
   font-family: 'Open Sans', sans-serif;
-  text-align:start;
+  text-align: center;
 }
 
 
