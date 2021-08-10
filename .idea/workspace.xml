@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="added in processing animation!" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wVOF8tBqgQKXoffE4zEvaYYify" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="" />
+      <created>1628540184616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628540184616</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added more info">
+      <created>1628546551978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628546551978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete line break">
+      <created>1628546649361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628546649361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add in text under folders">
+      <created>1628547074317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628547074317</updated>
+    </task>
+    <task id="LOCAL-00004" summary="try to wrap text">
+      <created>1628566487474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628566487474</updated>
+    </task>
+    <task id="LOCAL-00005" summary="make window bigger for mobile">
+      <created>1628566661810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628566661810</updated>
+    </task>
+    <task id="LOCAL-00006" summary="make window bigger for mobile">
+      <created>1628566744165</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628566744165</updated>
+    </task>
+    <task id="LOCAL-00007" summary="make window bigger for mobile">
+      <created>1628567688495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628567688495</updated>
+    </task>
+    <task id="LOCAL-00008" summary="remove container">
+      <created>1628568200225</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628568200225</updated>
+    </task>
+    <task id="LOCAL-00009" summary="i think i fixed all the wrapping issues?">
+      <created>1628569121445</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628569121445</updated>
+    </task>
+    <task id="LOCAL-00010" summary="i think i fixed all the wrapping issues?">
+      <created>1628569406515</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628569406515</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added in processing animation!">
+      <created>1628618043573</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628618043573</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added more info" />
+    <MESSAGE value="delete line break" />
+    <MESSAGE value="add in text under folders" />
+    <MESSAGE value="try to wrap text" />
+    <MESSAGE value="make window bigger for mobile" />
+    <MESSAGE value="remove container" />
+    <MESSAGE value="i think i fixed all the wrapping issues?" />
+    <MESSAGE value="added in processing animation!" />
+    <option name="LAST_COMMIT_MESSAGE" value="added in processing animation!" />
+  </component>
+</project>
