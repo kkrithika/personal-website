@@ -4,25 +4,28 @@ html {
    width: 100%;
 }
 
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+
 .intro {
 	background: url(../images/background_lines-01.svg), linear-gradient(132deg, rgb(251, 251, 255) 0.00%, rgb(215, 223, 252) 100.00%);
-	background-repeat: no-repeat;
-    background-position: center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    width: 100%
-    height: 100%;
 }
 .flex-container-folders {
   display: inline-flex;
   padding: 3%;
 }
-.flex-container-folders-row {
-  flex-flow: row;
+.flex-container-folders-column {
+  flex-flow: column wrap;
   justify-content: flex-start;
-  flex-wrap: wrap;
   float: left;
   gap: 30px;
-  width: 100%;
+  padding: 20%;
 }
 .folder{
     background:url(../images/mac_os_9_folder.png) no-repeat;
@@ -34,7 +37,12 @@ html {
 
 .folder-text{
   font-family: 'Open Sans', sans-serif;
-  text-align: center;
+  align-self: center;
+}
+
+.flex-container-processing {
+  padding: 3%;
+  float: right;
 }
 
 
