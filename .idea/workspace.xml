@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="try to make title bar sticky ?">
+    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="use bootstrap grid layout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/window.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/window.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -141,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628620072900</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="use bootstrap grid layout">
+      <created>1628620301177</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1628620301178</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +174,7 @@
     <MESSAGE value="added in processing animation!" />
     <MESSAGE value="added in grid" />
     <MESSAGE value="try to make title bar sticky ?" />
-    <option name="LAST_COMMIT_MESSAGE" value="try to make title bar sticky ?" />
+    <MESSAGE value="use bootstrap grid layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="use bootstrap grid layout" />
   </component>
 </project>
