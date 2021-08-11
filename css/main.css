@@ -35,7 +35,7 @@ font-family: 'Open Sans', sans-serif;
   justify-content: flex-start;
   float: left;
   gap: 30px;
-  padding: 20%;
+  padding: 10%;
 }
 .folder{
     background:url(../images/mac_os_9_folder.png) no-repeat;

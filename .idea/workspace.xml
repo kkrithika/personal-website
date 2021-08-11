@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="add svg and describe animation">
+    <list default="true" id="e19d1514-f0ab-44d3-a606-37a3656e5070" name="Changes" comment="move processing image to right side using media tags">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628637076107</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="move processing image to right side using media tags">
+      <created>1628639730018</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1628639730018</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +236,7 @@
     <MESSAGE value="try to add in collapse. didn't work" />
     <MESSAGE value="add jquery functions to wait until loading animation is finished." />
     <MESSAGE value="add svg and describe animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="add svg and describe animation" />
+    <MESSAGE value="move processing image to right side using media tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="move processing image to right side using media tags" />
   </component>
 </project>
